@@ -107,7 +107,7 @@ def runAppAnalyzer(targetDir, reportDir):
 
 if __name__ == "__main__":
     
-    rom_file='./rom/sailfish-nhg47l-factory-509076ee.zip'  ##replace with your firmware path
+    rom_file='firmware path'  ##replace with your firmware path
     rom_brand='brand'    ##replace with your rom's brand
 
 
