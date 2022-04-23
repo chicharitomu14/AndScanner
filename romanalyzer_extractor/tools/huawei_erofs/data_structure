@@ -1,0 +1,18 @@
+1. First 92 bytes are 0x00
+2. Each file are started with 55AA 5AA5
+3. Then 4 bytes for Header Length
+4. Then 4 bytes for Unknown1
+5. Then 8 bytes for Hardware ID
+6. Then 4 bytes for File Sequence
+7. Then 4 bytes for File Size
+8. Then 16 byts for File Date
+9. Then 16 byts for File Time
+10.Then 16 byts for File Type
+11.Then 16 byts for Blank1
+12.Then 2 bytes for Header Checksum
+13.Then 2 bytes for BlockSize
+14.Then 2 bytes for Blank2
+15.Then ($headerLength-98) bytes for file checksum
+16.Then data file length bytes for files.
+17.Then padding if have
+18.Then repeat 2 to 17

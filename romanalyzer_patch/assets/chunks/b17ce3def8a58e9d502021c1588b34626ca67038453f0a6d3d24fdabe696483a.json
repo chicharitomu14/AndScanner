@@ -1,0 +1,1 @@
+{"basicTests": {"1C664F99D38D6F46": {"filename": "/system/lib64/libjhead.so", "testType": "FILE_EXISTS"}, "297E34D1D6D210B1": {"filename": "/system/lib/libjhead.so", "testType": "FILE_EXISTS"}}}

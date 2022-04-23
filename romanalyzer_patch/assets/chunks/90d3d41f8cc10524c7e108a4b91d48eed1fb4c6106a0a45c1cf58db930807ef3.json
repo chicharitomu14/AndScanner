@@ -1,0 +1,1 @@
+{"basicTests": {"5091BA4322688046": {"filename": "/system/lib64/libstagefright_soft_avcdec.so", "symbol": "ih264d_map_error", "testType": "BINARY_CONTAINS_SYMBOL"}}}

@@ -1,0 +1,1 @@
+{"basicTests": {"B9F0197143A9C331": {"filename": "/system/lib64/libstagefright_soft_avcdec.so", "symbol": "ih264d_get_outbuf_size", "testType": "BINARY_CONTAINS_SYMBOL"}}}

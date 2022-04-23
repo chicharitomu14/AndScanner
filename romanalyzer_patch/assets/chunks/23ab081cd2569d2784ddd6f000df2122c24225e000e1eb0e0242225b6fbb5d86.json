@@ -1,0 +1,1 @@
+{"basicTests": {"6A63CB6818CD0320": {"filename": "/system/lib64/libstagefright_soft_mpeg2dec.so", "symbol": "impeg2d_get_outbuf_size", "testType": "BINARY_CONTAINS_SYMBOL"}, "A84D966BD0E3A869": {"filename": "/system/lib64/libstagefright_soft_mpeg2dec.so", "symbol": "impeg2d_fill_mem_rec", "testType": "BINARY_CONTAINS_SYMBOL"}}}

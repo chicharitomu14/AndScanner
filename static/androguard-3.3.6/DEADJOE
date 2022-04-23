@@ -1,0 +1,12 @@
+
+*** Modified files in JOE when it aborted on Mon Jun  7 15:00:35 2021
+*** JOE was aborted because the terminal closed
+
+*** File '/data/tmp_hou/heichan/androguard/.git/MERGE_MSG'
+
+Merge branch 'master' of https://gitee.com/promeg_admin/androguard
+
+# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支
+# 合并到主题分支。
+#
+# 以 '#' 开头的行将被忽略，而且空提交说明
